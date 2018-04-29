@@ -1,0 +1,19 @@
+
+
+#div2 {
+    display: inline-block;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    vertical-align: top;
+}
+
+#div1 {
+    margin: 1em;
+    margin-top: 10px
+}
+
+#div3 {
+    font-size: 1.25em;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
